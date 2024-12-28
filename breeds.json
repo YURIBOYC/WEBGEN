@@ -1,0 +1,7 @@
+[
+  { "breed": "Labrador Retriever", "count": 5000 },
+  { "breed": "German Shepherd", "count": 3500 },
+  { "breed": "Golden Retriever", "count": 2800 },
+  { "breed": "Bulldog", "count": 2200 },
+  { "breed": "Poodle", "count": 1800 }
+]
